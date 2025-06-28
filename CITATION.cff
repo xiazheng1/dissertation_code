@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Source Code for: HETEROGENEITY IN NEIGHBORHOOD EFFECTS ON
+  EDUCATIONAL OUTCOMES IN THE UNITED STATES, 2010-2016
+message: >-
+  If you use this code, please cite it and the accompanying
+  dissertation.
+type: software
+authors:
+  - given-names: Xia
+    family-names: Zheng
+    email: xiajcsk@gmail.com
+    affiliation: The University of Chicago
+    orcid: 'https://orcid.org/0000-0002-9121-7381'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15758801
+repository-code: 'https://github.com/xiazheng1/dissertation_code/tree/main'
+license: Apache-2.0
+commit: Initial
+version: '1.0'
+date-released: '2025-06-27'
+references:
+  - type: "thesis"
+    title: "HETEROGENEITY IN NEIGHBORHOOD EFFECTS ON EDUCATIONAL OUTCOMES IN THE UNITED STATES, 2010-2016"
+    authors:
+      - family-names: “Zheng”
+        given-names: “Xia”
+        affiliation: “The University of Chicago”
+    institution:
+      name: "The University of Chicago"
+    year: “2025”
